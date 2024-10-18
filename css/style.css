@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+* {
+    background: gray;
+}
